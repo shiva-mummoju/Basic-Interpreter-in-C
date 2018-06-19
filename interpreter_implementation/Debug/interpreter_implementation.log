@@ -1,0 +1,28 @@
+﻿Build started 01-06-2018 05:40:20.
+     1>Project "C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\interpreter_implementation\interpreter_implementation\interpreter_implementation.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(76): warning C4101: 'token' : unreferenced local variable
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(209): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(238): warning C4101: 'temp' : unreferenced local variable
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(291): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(298): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(311): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(330): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(588): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(367): warning C4101: 'temp1' : unreferenced local variable
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(635): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(673): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(696): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(734): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(778): warning C4101: 'symbol_index_2' : unreferenced local variable
+     1>c:\users\shiva sai ram\documents\visual studio 2013\projects\interpreter_implementation\interpreter_implementation\source.cpp(760): warning C4715: 'give_back_correct_value' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\interpreter_implementation\Debug\interpreter_implementation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\interpreter_implementation\Debug\interpreter_implementation.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\interpreter_implementation\Debug\interpreter_implementation.lib" /MACHINE:X86 Debug\Source.obj
+         interpreter_implementation.vcxproj -> C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\interpreter_implementation\Debug\interpreter_implementation.exe
+     1>Done Building Project "C:\Users\Shiva Sai Ram\documents\visual studio 2013\Projects\interpreter_implementation\interpreter_implementation\interpreter_implementation.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.67
